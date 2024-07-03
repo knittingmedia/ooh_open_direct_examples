@@ -187,6 +187,18 @@
 					"Type": "Frames",
 					"DataSource": "Time",
 					"Target": "Hours"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Days"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Weeks"
 				}
 			],
 			"TimeZone": "Europe/London",
@@ -277,6 +289,18 @@
 					"Type": "Frames",
 					"DataSource": "Time",
 					"Target": "Hours"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Days"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Weeks"
 				}
 			],
 			"TimeZone": "Europe/London",
@@ -367,6 +391,18 @@
 					"Type": "Frames",
 					"DataSource": "Time",
 					"Target": "Hours"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Days"
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "Time",
+					"Target": "Weeks"
 				}
 			],
 			"TimeZone": "Europe/London",
