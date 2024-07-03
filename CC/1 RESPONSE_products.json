@@ -32,9 +32,9 @@
 						"1234856578"
 					],
 					"Selectable": true,
-					"Count": 3195,
+					"Count": 10,
 					"Minimum": 1,
-					"Maximum": 500
+					"Maximum": 10
 				},
 				{
 					"Name": "Delivery",
@@ -68,9 +68,9 @@
 						"23"
 					],
 					"Selectable": true,
-					"Count": 24,
-					"Minimum": 0,
-					"Maximum": 23
+					"Count": 10,
+					"Minimum": 1,
+					"Maximum": 10
 				}
 			],
 			"AvailsGroupBy": [
@@ -134,9 +134,9 @@
 						"1234859556"
 					],
 					"Selectable": true,
-					"Count": 471,
+					"Count": 10,
 					"Minimum": 1,
-					"Maximum": 471
+					"Maximum": 10
 				},
 				{
 					"Name": "Delivery",
@@ -170,9 +170,9 @@
 						"23"
 					],
 					"Selectable": true,
-					"Count": 24,
-					"Minimum": 0,
-					"Maximum": 23
+					"Count": 10,
+					"Minimum": 1,
+					"Maximum": 10
 				}
 			],
 			"AvailsGroupBy": [
@@ -236,9 +236,9 @@
 						"1234856578"
 					],
 					"Selectable": true,
-					"Count": 3195,
+					"Count": 10,
 					"Minimum": 1,
-					"Maximum": 500
+					"Maximum": 10
 				},
 				{
 					"Name": "Delivery",
@@ -338,9 +338,9 @@
 						"1234859556"
 					],
 					"Selectable": true,
-					"Count": 471,
+					"Count": 10,
 					"Minimum": 1,
-					"Maximum": 471
+					"Maximum": 10
 				},
 				{
 					"Name": "Delivery",
