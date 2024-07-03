@@ -1,1 +1,76 @@
-
+{
+	"StartDate": "2024-07-22T05:00:00.000Z",
+	"AccountId": "923c4d2b-375f-4091-85b7-55b443ca4617",
+	"ProductId": "3ba2ba28-730b-4a00-ba9b-f470ff66c38a",
+	"Grouping": [
+		{
+			"Name": "Inventory",
+			"Type": "Frames",
+			"DataSource": "Space",
+			"Target": "frame_id"
+		},
+		{
+			"Name": "Delivery",
+			"Type": "Frames",
+			"DataSource": "Time",
+			"Target": "Hours"
+		}
+	],
+	"Targeting": [
+		{
+			"Name": "Inventory",
+			"Type": "Frames",
+			"DataSource": "Space",
+			"Target": "frame_id",
+			"TargetValues": [
+				"1234860060",
+				"1234860056",
+				"1234859500",
+				"1234859486",
+				"1234860255",
+				"1234859507",
+				"1234859530",
+				"1234859502",
+				"1234860923",
+				"1234859556",
+				"1234859528",
+				"1234859916",
+				"1234860454",
+				"1234859456",
+				"1234860927"
+			]
+		},
+		{
+			"Name": "Delivery",
+			"Type": "Frames",
+			"DataSource": "Time",
+			"Target": "Hours",
+			"TargetValues": [
+				"0",
+				"1",
+				"2",
+				"3",
+				"4",
+				"5",
+				"6",
+				"7",
+				"8",
+				"9",
+				"10",
+				"11",
+				"12",
+				"13",
+				"14",
+				"15",
+				"16",
+				"17",
+				"18",
+				"19",
+				"20",
+				"21",
+				"22",
+				"23"
+			]
+		}
+	]
+}
