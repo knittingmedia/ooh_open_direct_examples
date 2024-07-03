@@ -31,7 +31,7 @@
 							]
 						}
 					]
-          },
+         		},
 			{
 				"Status": "Unavailable",
 				"Reason": "InvalidPrice",
@@ -77,6 +77,6 @@
 							]
 						}
 					]
-}
+}]
       }
 }
