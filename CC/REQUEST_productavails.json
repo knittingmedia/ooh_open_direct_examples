@@ -14,7 +14,7 @@
 			"Name": "Delivery",
 			"Type": "Frames",
 			"DataSource": "Time",
-			"Target": "Hours"
+			"Target": "Weeks"
 		}
 	],
 	"Targeting": [
