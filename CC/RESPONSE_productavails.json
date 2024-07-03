@@ -1,1 +1,7225 @@
-
+{
+	"ProductAvails": {
+		"StartDate": "2024-07-26T05:00:00.000Z",
+		"AccountId": "823c4d2b-375f-4091-85b7-55b443ca4617",
+		"ProductId": "2ba2ba28-730b-4a00-ba9b-f470ff66c38a",
+		"Currency": "GBP",
+		"Price": "0",
+		"Availability": [
+			{
+				"Status": "Unavailable",
+				"Reason": "Booked",
+				"Comment": "The following frames are booked for the given time period",
+				"Targeting": [
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"0"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"1"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"2"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"3"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"4"
+							]
+						}
+					]
+				]
+			},
+			{
+				"Status": "Unavailable",
+				"Reason": "InvalidPrice",
+				"Comment": "Price information not available for these frames",
+				"Targeting": [
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860060"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860056"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859500"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859486"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860255"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859507"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859530"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859502"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860923"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859556"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859528"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859916"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860454"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234859456"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"5"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"6"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"7"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"8"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"9"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"10"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"11"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"12"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"13"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"14"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"15"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"16"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"17"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"18"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"19"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"20"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"21"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"22"
+							]
+						}
+					],
+					[
+						{
+							"TargetValues": [
+								"1234860927"
+							],
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id"
+						},
+						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Hours",
+							"TargetValues": [
+								"23"
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+}
