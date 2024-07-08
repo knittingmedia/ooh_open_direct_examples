@@ -1,6 +1,7 @@
 {
 	"ProductAvails": {
-		"StartDate": "2024-07-26T05:00:00.000Z",
+		"StartDate": "2024-07-22T05:00:00.000Z",
+		"EndDate": "2024-08-05T05:00:00.000Z",
 		"AccountId": "823c4d2b-375f-4091-85b7-55b443ca4617",
 		"ProductId": "2ba2ba28-730b-4a00-ba9b-f470ff66c38a",
 		"Currency": "GBP",
@@ -13,68 +14,102 @@
 				"Targeting": [
 					[
 						{
+							"Name": "Delivery",
+							"Type": "Frames",
+							"DataSource": "Time",
+							"Target": "Weeks",
 							"TargetValues": [
-								"1234860060"
-							],
+								"1"
+							]
+						},
+						{
 							"Name": "Inventory",
 							"Type": "Frames",
 							"DataSource": "Space",
-							"Target": "frame_id"
-						},
+							"Target": "frame_id",
+							"TargetValues": [
+								"1234860060",
+								"1234860056",
+								"1234859500"
+							]
+						}
+					],
+					[
 						{
 							"Name": "Delivery",
 							"Type": "Frames",
 							"DataSource": "Time",
-							"Target": "Hours",
+							"Target": "Weeks",
 							"TargetValues": [
-								"0"
+								"2"
+							]
+						},
+						{
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id",
+							"TargetValues": [
+								"1234860060",
+								"1234860056"
 							]
 						}
 					]
 				]
 			},
 			{
-				"Status": "Unavailable",
-				"Reason": "InvalidPrice",
-				"Comment": "Price information not available for these frames",
+				"Status": "Available",
 				"Targeting": [
 					[
-						{
-							"TargetValues": [
-								"1234860060"
-							],
-							"Name": "Inventory",
-							"Type": "Frames",
-							"DataSource": "Space",
-							"Target": "frame_id"
-						},
 						{
 							"Name": "Delivery",
 							"Type": "Frames",
 							"DataSource": "Time",
-							"Target": "Hours",
+							"Target": "Weeks",
 							"TargetValues": [
-								"5"
+								"1"
+							]
+						},
+						{
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id",
+							"TargetValues": [
+								"1234859486",
+								"1234860255",
+								"1234859507",
+								"1234859530",
+								"1234859502",
+								"1234860923",
+								"1234859556"
 							]
 						}
 					],
 					[
 						{
-							"TargetValues": [
-								"1234860060"
-							],
-							"Name": "Inventory",
-							"Type": "Frames",
-							"DataSource": "Space",
-							"Target": "frame_id"
-						},
-						{
 							"Name": "Delivery",
 							"Type": "Frames",
 							"DataSource": "Time",
-							"Target": "Hours",
+							"Target": "Weeks",
 							"TargetValues": [
-								"6"
+								"2"
+							]
+						},
+						{
+							"Name": "Inventory",
+							"Type": "Frames",
+							"DataSource": "Space",
+							"Target": "frame_id",
+							"TargetValues": [
+								"1234859500",
+								"1234859486",
+								"1234860255",
+								"1234859507",
+								"1234859530",
+								"1234859502",
+								"1234860923",
+								"1234859556"
 							]
 						}
 					]
