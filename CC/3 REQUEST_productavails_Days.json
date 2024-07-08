@@ -1,6 +1,6 @@
 {
 	"StartDate": "2024-07-22T05:00:00.000Z",
-	"EndDate": "2024-08-05T05:00:00.000Z",
+	"EndDate": "2024-07-27T05:00:00.000Z",
 	"AccountId": "923c4d2b-375f-4091-85b7-55b443ca4617",
 	"ProductId": "3ba2ba28-730b-4a00-ba9b-f470ff66c38a",
 	"Grouping": [
@@ -9,13 +9,13 @@
 			"Type": "Frames",
 			"DataSource": "Time",
 			"Target": "Days"
-		}
+		},
 		{
 			"Name": "Inventory",
 			"Type": "Frames",
 			"DataSource": "Space",
 			"Target": "frame_id"
-		},
+		}
 		
 	],
 	"Targeting": [
