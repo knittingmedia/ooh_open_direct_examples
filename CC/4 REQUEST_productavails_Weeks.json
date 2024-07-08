@@ -15,8 +15,7 @@
 			"Type": "Frames",
 			"DataSource": "Space",
 			"Target": "frame_id"
-		},
-		
+		}
 	],
 	"Targeting": [
 		{
