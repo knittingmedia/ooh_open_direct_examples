@@ -1,312 +1,6 @@
 {
 	"Products": [
 		{
-			"Id": "f7decdcc-1b4b-4b81-ac99-e81c33f8046a",
-			"Name": "PnB Adshel Live",
-			"Description": "Adshel Live PnB UAT",
-			"ActiveDate": "2018-01-01T12:00:00.000Z",
-			"AdFormatTypes": [
-				"HTML5",
-				"Flash",
-				"Image",
-				"Video"
-			],
-			"Currency": "GBP",
-			"RetirementDate": "2024-12-31T12:00:00.000Z",
-			"TargetTypes": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id",
-					"TargetValues": [
-						"1234860549",
-						"1234859363",
-						"1234859563",
-						"1234860009",
-						"1234860566",
-						"1234859574",
-						"1234860827",
-						"1234860464",
-						"1234859281",
-						"1234856578"
-					],
-					"Selectable": true,
-					"Count": 10,
-					"Minimum": 1,
-					"Maximum": 10
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours",
-					"TargetValues": [
-						"0",
-						"1",
-						"2",
-						"3",
-						"4",
-						"5",
-						"6",
-						"7",
-						"8",
-						"9",
-						"10",
-						"11",
-						"12",
-						"13",
-						"14",
-						"15",
-						"16",
-						"17",
-						"18",
-						"19",
-						"20",
-						"21",
-						"22",
-						"23"
-					],
-					"Selectable": true,
-					"Count": 10,
-					"Minimum": 1,
-					"Maximum": 10
-				}
-			],
-			"AvailsGroupBy": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Days"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Weeks"
-				}
-			],
-			"TimeZone": "Europe/London",
-			"LeadTime": "P0Y0M2DT0H0M0S"
-		},
-		{
-			"Id": "da12cfa6-357d-4222-84fd-d204dc05c232",
-			"Name": "PnB Billboard Live",
-			"Description": "Billboard Live PnB UAT",
-			"ActiveDate": "2021-01-01T12:00:00.000Z",
-			"AdFormatTypes": [
-				"HTML5",
-				"Flash",
-				"Image",
-				"Video"
-			],
-			"Currency": "GBP",
-			"RetirementDate": "2024-12-31T12:00:00.000Z",
-			"TargetTypes": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id",
-					"TargetValues": [
-						"1234860060",
-						"1234860056",
-						"1234859500",
-						"1234859486",
-						"1234860255",
-						"1234859507",
-						"1234859530",
-						"1234859502",
-						"1234860923",
-						"1234859556"
-					],
-					"Selectable": true,
-					"Count": 10,
-					"Minimum": 1,
-					"Maximum": 10
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours",
-					"TargetValues": [
-						"0",
-						"1",
-						"2",
-						"3",
-						"4",
-						"5",
-						"6",
-						"7",
-						"8",
-						"9",
-						"10",
-						"11",
-						"12",
-						"13",
-						"14",
-						"15",
-						"16",
-						"17",
-						"18",
-						"19",
-						"20",
-						"21",
-						"22",
-						"23"
-					],
-					"Selectable": true,
-					"Count": 10,
-					"Minimum": 1,
-					"Maximum": 10
-				}
-			],
-			"AvailsGroupBy": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Days"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Weeks"
-				}
-			],
-			"TimeZone": "Europe/London",
-			"LeadTime": "P0Y0M2DT0H0M0S"
-		},
-		{
-			"Id": "841c8d67-2ad2-44fe-aa2d-647de4ec41ea",
-			"Name": "Adshel Live frame hour buys",
-			"Description": "Adshel Live is our national network of roadside digital 6 sheet panels",
-			"ActiveDate": "2018-01-01T12:00:00.000Z",
-			"AdFormatTypes": [
-				"HTML5",
-				"Flash",
-				"Image",
-				"Video"
-			],
-			"Currency": "GBP",
-			"RetirementDate": "2024-12-31T12:00:00.000Z",
-			"TargetTypes": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id",
-					"TargetValues": [
-						"1234860549",
-						"1234859363",
-						"1234859563",
-						"1234860009",
-						"1234860566",
-						"1234859574",
-						"1234860827",
-						"1234860464",
-						"1234859281",
-						"1234856578"
-					],
-					"Selectable": true,
-					"Count": 10,
-					"Minimum": 1,
-					"Maximum": 10
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours",
-					"TargetValues": [
-						"0",
-						"1",
-						"2",
-						"3",
-						"4",
-						"5",
-						"6",
-						"7",
-						"8",
-						"9",
-						"10",
-						"11",
-						"12",
-						"13",
-						"14",
-						"15",
-						"16",
-						"17",
-						"18",
-						"19",
-						"20",
-						"21",
-						"22",
-						"23"
-					],
-					"Selectable": true,
-					"Count": 24,
-					"Minimum": 0,
-					"Maximum": 23
-				}
-			],
-			"AvailsGroupBy": [
-				{
-					"Name": "Inventory",
-					"Type": "Frames",
-					"DataSource": "Space",
-					"Target": "frame_id"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Hours"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Days"
-				},
-				{
-					"Name": "Delivery",
-					"Type": "Frames",
-					"DataSource": "Time",
-					"Target": "Weeks"
-				}
-			],
-			"TimeZone": "Europe/London",
-			"LeadTime": "P0Y0M2DT0H0M0S"
-		},
-		{
 			"Id": "2ba2ba28-730b-4a00-ba9b-f470ff66c38a",
 			"Name": "Billboard Live frame hour buys",
 			"Description": "Billboard Live is our National network of roadside digital 48 sheet panels",
@@ -377,6 +71,41 @@
 					"Count": 24,
 					"Minimum": 0,
 					"Maximum": 23
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "ShareOfDisplay",
+					"Target": "ShareOfTime",
+					"TargetValues": [],
+					"Selectable": true,
+					"Minimum": 2,
+					"Maximum": 100,
+					"Increment": 1,
+					"Default": 16.6
+				},
+				{
+					"Name": "Delivery",
+					"Type": "Frames",
+					"DataSource": "ShareOfDisplay",
+					"Target": "Spot",
+					"TargetValues": [],
+					"Selectable": true,
+					"Minimum": 5,
+					"Maximum": 30,
+					"Increment": 5,
+					"Default": 5
+				},
+				{
+					"Name": "Distribution",
+					"Type": "Frames",
+					"DataSource": "ShareOfDisplay",
+					"Target": "Hours",
+					"TargetValues": [
+						"Fixed",
+						"Flexible"
+					],
+					"Default": "Fixed"
 				}
 			],
 			"AvailsGroupBy": [
