@@ -70,7 +70,8 @@
 					"Selectable": true,
 					"Count": 24,
 					"Minimum": 0,
-					"Maximum": 23
+					"Maximum": 23,
+					"Default": 24
 				},
 				{
 					"Name": "Delivery",
