@@ -1,0 +1,69 @@
+{
+    "Name": "string",
+    "StartDate": "2024-07-22T05:00:00.000Z",
+    "EndDate": "2024-08-05T05:00:00.000Z",
+    "ProductId": "2ba2ba28-730b-4a00-ba9b-f470ff66c38a",
+    "Comment": "string",
+    "ProviderData": "string",
+    "OOHProviderData": "string",
+    "Targeting": [
+        [
+            {
+                "Name": "Delivery",
+                "Type": "Frames",
+                "DataSource": "Time",
+                "Target": "Weeks",
+                "TargetValues": [
+                    "1"
+                ]
+            },
+            {
+                "Name": "Inventory",
+                "Type": "Frames",
+                "DataSource": "Space",
+                "Target": "frame_id",
+                "TargetValues": [
+                    "1234859486",
+                    "1234860255",
+                    "1234859507",
+                    "1234859530",
+                    "1234859502",
+                    "1234860923",
+                    "1234859556"
+                ]
+            }
+        ],
+        [
+            {
+                "Name": "Delivery",
+                "Type": "Frames",
+                "DataSource": "Time",
+                "Target": "Weeks",
+                "TargetValues": [
+                    "2"
+                ]
+            },
+            {
+                "Name": "Inventory",
+                "Type": "Frames",
+                "DataSource": "Space",
+                "Target": "frame_id",
+                "TargetValues": [
+                    "1234859500",
+                    "1234859486",
+                    "1234860255",
+                    "1234859507",
+                    "1234859530",
+                    "1234859502",
+                    "1234860923",
+                    "1234859556"
+                ]
+            }
+        ]
+    ],
+    "Id": "string",
+    "BookingStatus": "Draft",
+    "Cost": "string",
+    "StateChangeReason": "string",
+    "ReservedExpiryDate": "2024-08-12T14:35:03.015Z"
+}
